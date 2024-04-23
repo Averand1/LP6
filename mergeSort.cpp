@@ -79,5 +79,6 @@ int main() {
     return 0;
 }
 
-// in terminal run: g++ -fopenmp mergeSort.cpp -o mergeSort
-// then run: ./mergeSort
+// g++ -fopenmp mergeSort.cpp -o mergeSort
+
+// ./mergeSort
